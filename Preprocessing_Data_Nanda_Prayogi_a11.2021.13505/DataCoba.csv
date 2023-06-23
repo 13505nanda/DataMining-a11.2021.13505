@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Pati,22,65000,Yes
+Kudus,34,,No
+Jepara,25,45000,Yes
+Kudus,45,56000,Yes
+Jepara,37,,No
+Pati,35,43000,No
+Kudus,34,43000,Yes
+Pati,,65000,No
+Jepara,45,67000,Yes
+Pati,42,75000,Yes
